@@ -10,7 +10,7 @@
 
 \## 📄 Great Learning Certificate
 
-!\[Great Learning](Great\_Learning\_Certificate.png)
+<img width="1919" height="904" alt="Image" src="https://github.com/user-attachments/assets/48a658fb-19c0-438c-b894-635144b7a48e" />
 
 
 
