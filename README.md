@@ -4,7 +4,7 @@
 
 \## 📄 SimpleLearn Certificate
 
-!\[SimpleLearn](SimpleLearn\_Certificate\_page-0001.jpg)
+![Image](https://github.com/user-attachments/assets/3a3e3f26-fd04-456d-baf2-a6d6f3786259)
 
 
 
