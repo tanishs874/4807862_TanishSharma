@@ -18,3 +18,8 @@
 ![Image](https://github.com/user-attachments/assets/c3baddc0-d3a3-4240-bacd-e478e1e0ab79)
 
 
+\## C Intermediate Certificate SoloLearn
+
+![Image](https://github.com/user-attachments/assets/8b6d5ed6-ea1c-42b3-b1c6-7025f878570e)
+
+
